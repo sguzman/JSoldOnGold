@@ -8,6 +8,6 @@
   "scripts": {
     "start": "node index.js"
   },
-  "license": "Unlicensed",
+  "license": "Unlicense",
   "private": false
 }
