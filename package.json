@@ -5,6 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/sguzman/JSoldOnGold",
   "author": "Salvador Guzman <guzmansalv@gmail.com>",
+  "scripts": {
+    "start": "node index.js"
+  },
   "license": "Unlicensed",
   "private": false
 }
